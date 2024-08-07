@@ -8,12 +8,6 @@ This project simulates memory allocation using both single queue and multi-queue
   - [Overview](#overview)
   - [Features](#features)
   - [Requirements](#requirements)
-  - [Usage](#usage)
-    - [Running the Script](#running-the-script)
-  - [Simulation Details](#simulation-details)
-  - [Example Output](#example-output)
-  - [Contributing](#contributing)
-  - [License](#license)
 
 ## Overview
 
